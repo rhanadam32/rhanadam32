@@ -27,3 +27,8 @@
 - 📚 Currently diving into **Laravel, C, C++, C#, and Unreal Engine** to expand my creative toolkit  
 - 🐦 Sharing thoughts & snippets on [@RaihanAdam9](https://twitter.com/RaihanAdam9)  
 - 🌌 **Always curious about tomorrow** — because every day is a new frame to compose
+
+### Contact
+- 🌐 Portfolio: -
+- ✉️ Email: raihanadam321@gmail.com, raihan.adam@outlook.co.id
+- 💬 Open to collaborations on mood-forward plating and creative systems
