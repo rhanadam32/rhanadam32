@@ -1,7 +1,7 @@
 <!---<a href="https://rhanadam32.github.io">rhanadam32.github.io</a>--->
 
 <h2> Hello Everyone! I'am Raihan Adam</h2>
-<h3>Senior EDP at PT Bee Jay Seafood ✦ Freelance as Back-End Developer</h3>
+<h3>SPV IT at PT Bee Jay Seafood ✦ Freelance as Back-End Developer</h3>
 <p align="center">
   <a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-0ea5e9?style=for-the-badge"></a>
   <a href="mailto:#"><img alt="Email" src="https://img.shields.io/badge/Email-contact-22c55e?style=for-the-badge"></a>
