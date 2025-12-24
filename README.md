@@ -8,17 +8,18 @@
   <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin"></a>
 </p>
 
-### ⚙️ Back End & Infrastructure
-- ☁️ Hosting: Hostinger | Niagahoster
-- 🗄️ Database: MySQL | PostgreSQL 
-- 🔗 API: REST |  WebSocket
-- 🖥️ Patterns: MVC | Microservices | Serverless
+## 🚀 Technical Stack
 
-### 💻 Language & Framework
-- JavaScript 
-- PHP (CodeIgniter, Laravel)
-- Golang
-- Python (Flask, FastAPI)
+#### 💻 Back-End Development
+- **Languages:** PHP, Go (Golang), Python, Javascript
+- **Frameworks:** Laravel, CodeIgniter, Flask, FastAPI
+- **API Design:** RESTful API Specialist
+- **Architecture:** MVC Pattern & Microservices
+
+#### 🗄️ Database & Infrastructure
+- **Databases:** MySQL & PostgreSQL
+- **Hosting & Deployment:** Shared/Cloud Hosting (Hostinger, Niagahoster)
+
 
 ### 🌟 About Me
 - 🤖 Passionate about **building Gundam models**, exploring the art of detail and precision  
