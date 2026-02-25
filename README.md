@@ -18,7 +18,7 @@
 
 #### 🗄️ Database & Infrastructure
 - **Databases:** MySQL & PostgreSQL
-- **Hosting & Deployment:** Shared/Cloud Hosting (Hostinger, Niagahoster)
+- **Hosting & Deployment:** Shared/Cloud Hosting 
 
 
 ### 🌟 About Me
