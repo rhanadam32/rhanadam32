@@ -3,9 +3,9 @@
 <h2> Hello Everyone! I'am Raihan Adam</h2>
 <h3>SPV IT at PT Bee Jay Seafood ✦ Freelance as Back-End Developer</h3>
 <p align="center">
-  <a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-0ea5e9?style=for-the-badge"></a>
-  <a href="mailto:#"><img alt="Email" src="https://img.shields.io/badge/Email-contact-22c55e?style=for-the-badge"></a>
-  <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://migunaniconsulting.co.id"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-0ea5e9?style=for-the-badge"></a>
+  <a href="mailto:raihanadam321@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-22c55e?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/muhammad-raihan-adam-akhdyat-55a867284/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ## 🚀 Technical Stack
@@ -30,6 +30,7 @@
 - 🌌 **Always curious about tomorrow** — because every day is a new frame to compose
 
 ### Contact
-- 🌐 Portfolio: -
+- 🌐 Portfolio: migunaniconsulting.co.id
 - ✉️ Email: raihanadam321@gmail.com, raihan.adam@outlook.co.id
+- 📞 whatsapp: +62 822-4130-7056
 - 💬 Open to collaborations on mood-forward plating and creative systems
