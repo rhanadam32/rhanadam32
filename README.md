@@ -11,7 +11,7 @@
 ## 🚀 Technical Stack
 
 #### 💻 Back-End Development
-- **Languages:** PHP, Go (Golang), Python, Javascript
+- **Languages:** PHP, Go (Golang), Python, Javascript, Vue3
 - **Frameworks:** Laravel, CodeIgniter, Flask, FastAPI
 - **API Design:** RESTful API Specialist
 - **Architecture:** MVC Pattern & Microservices
@@ -25,7 +25,7 @@
 - 🤖 Passionate about **building Gundam models**, exploring the art of detail and precision  
 - 🥾 Love **hiking** — chasing horizons, finding new perspectives  
 - 📸 Into **photography**, capturing mood, light, and fleeting stories  
-- 📚 Currently diving into **Laravel, C, C++, C#, and Unreal Engine** to expand my creative toolkit  
+- 📚 Currently diving into **Laravel, C, C++, C#, and Vue3** to expand my creative toolkit  
 - 🐦 Sharing thoughts & snippets on [@RaihanAdam9](https://twitter.com/RaihanAdam9)  
 - 🌌 **Always curious about tomorrow** — because every day is a new frame to compose
 
